@@ -1,0 +1,88 @@
+
+header {
+    text-align: center;
+    font-size: 17px;
+    margin: 50px;
+    input {
+        background-color: #1a1919;
+        color: aliceblue;
+        font-family:sans-serif;
+        font-weight: 200;
+    }    
+}
+
+body {
+    background-color: #1a1919;
+    color: aliceblue;
+    font-family:sans-serif;
+    font-weight: 100;
+    padding: 10px;
+    text-align: center;
+    margin: 0;
+}
+
+footer {
+    background-color: #1a1919;
+    color: aliceblue;
+    font-family:sans-serif;
+    font-weight: 100;
+    text-align: center;
+    padding: 1px;
+    font-size: 20px;
+}
+
+a {
+    color: #f1f1f1;
+    text-decoration: none;
+    padding: 5px;
+    text-align: left;
+    
+}
+
+div {
+    background-color:#1a1919;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border: 5px solid #e9e9ee;
+    border-radius: 10px   
+}
+
+.Perfil_Estudiante{
+    width: 575px;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid white;
+    border-radius: 10px;
+    float: left;
+}
+
+.Portafolio_Estudiante{
+    width: 600px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid white;
+    border-radius: 10px;
+    float: right;
+}
+
+.Carreras_Estudiante{
+    width: 600px;
+    height: 250px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid white;
+    border-radius: 10px;
+    float: right;
+}
